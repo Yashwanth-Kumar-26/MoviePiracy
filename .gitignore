@@ -1,0 +1,25 @@
+# User specific
+dvdlal.mp4
+Hdlal.mp4
+output/
+movie.json
+1.txt
+des.txt
+Offline/
+
+# Secrets and Credentials
+*.session
+cineaifest-*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Downloads/Temp
+Telegram_Downloads/
+
+# OS
+.DS_Store
+Thumbs.db
+
