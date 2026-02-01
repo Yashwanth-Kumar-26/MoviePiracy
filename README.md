@@ -53,6 +53,8 @@ CineTry/
 
 ![Architecture Diagram](assets/architecture_diagram.png)
 
+> [View interactive diagram on Eraser.io](https://app.eraser.io/workspace/vPYzqvH0TxsEH6zfBb1Z?origin=share)
+
 ## 🔍 How It Works
 
 ### Phase 1: Reference Generation
