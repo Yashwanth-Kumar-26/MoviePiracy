@@ -53,7 +53,7 @@ CineTry/
 
 ![Architecture Diagram](assets/architecture_diagram.png)
 
-> [View interactive diagram on Eraser.io](https://app.eraser.io/workspace/vPYzqvH0TxsEH6zfBb1Z?origin=share)
+> [For More Clarity](https://app.eraser.io/workspace/vPYzqvH0TxsEH6zfBb1Z?origin=share)
 
 ## 🔍 How It Works
 
