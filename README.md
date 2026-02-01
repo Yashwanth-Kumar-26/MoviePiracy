@@ -49,6 +49,12 @@ CineTry/
     └── results.json       # Detection results
 ```
 
+## 📐 Architecture
+
+Explore the detailed system architecture and workflow on Eraser.io:
+
+[![View on Eraser.io](https://firebasestorage.googleapis.com/v0/b/eraser-20062.appspot.com/o/brands%2Feraser-button-dark.svg?alt=media&token=9a1f4697-4805-4465-9154-9616cce06692)](https://app.eraser.io/workspace/vPYzqvH0TxsEH6zfBb1Z?origin=share)
+
 ## 🔍 How It Works
 
 ### Phase 1: Reference Generation
