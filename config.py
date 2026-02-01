@@ -39,9 +39,9 @@ USE_EVENT_LISTENER = True  # True=Watchdog, False=Loop
 MIN_FILE_SIZE_MB = 10      # Ignore tiny files
 
 # ==================== TELEGRAM (TELETHON) ====================
-API_ID = 33181802  # REPLACE WITH YOUR API_ID
-API_HASH = "9ff046c759494af65da90b533e1ca3a1"
-SESSION_NAME = "CineAI"
+API_ID = "" # REPLACE WITH YOUR API_ID
+API_HASH = ""
+SESSION_NAME = ""
 TARGET_CHANNELS = [-1003543725909, -1003738573325]  # List of Channel IDs to monitor
 
 # ==================== REPORTING (NEW) ====================
